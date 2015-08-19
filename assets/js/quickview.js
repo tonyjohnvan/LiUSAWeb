@@ -125,12 +125,12 @@ function quickviewSidebar() {
 
 
 function quickviewHeight(){
-    $('.chat-conversation').height('');
-    chatConversationHeight = $('.chat-conversation').height();
-    windowHeight= $(window).height();
-    if(chatConversationHeight < windowHeight) {
-        $('.chat-conversation').height($(window).height() - 50);
-    }
+//    $('.chat-conversation').height('');
+//    chatConversationHeight = $('.chat-conversation').height();
+//    windowHeight= $(window).height();
+//    if(chatConversationHeight < windowHeight) {
+//        $('.chat-conversation').height($(window).height() - 50);
+//    }
 }
 
 
