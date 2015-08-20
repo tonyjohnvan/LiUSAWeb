@@ -15810,3 +15810,11 @@ canvas.right {
 /*.keyWrap li.long:hover{*/
     box-shadow: 2px 3px 6px rgba(0,0,0,0.2);
 }
+
+.account-wall{
+    text-align: center;
+}
+
+.account-wall img{
+    margin: 20px auto 50px;
+}

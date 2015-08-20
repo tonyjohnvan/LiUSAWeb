@@ -24,8 +24,8 @@ $(window).load(function() {
         $('.loader-overlay').addClass('loaded');
         $('body > section').animate({
             opacity: 1,
-        }, 400);
-    }, 500);
+        }, 100);
+    }, 200);
 });
 
 
