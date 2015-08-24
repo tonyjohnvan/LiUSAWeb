@@ -3074,7 +3074,7 @@ body:not(.sidebar-collapsed) .sidebar .sidebar-inner .nav-sidebar > li.nav-paren
 }
 
 .sidebar-condensed:not(.sidebar-collapsed) .main-content .topbar {
-    left: 190px;
+    /*left: 190px;*/
 }
 
 .sidebar-condensed .sidebar .logopanel {
@@ -15714,7 +15714,7 @@ body.rtl .layout-options .img-sidebar-right {
 }
 
 .sidebar-condensed:not(.sidebar-collapsed) .main-content {
-    margin-right: 190px;
+    /*margin-right: 190px;*/
 }
 
 /* overide css*/
